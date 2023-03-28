@@ -1,5 +1,12 @@
 package ch5;
-
+/** Class: MyAssignment
+ *  @author Eden Truong
+ *  @version 1.0
+ *  Course: ITEC 2140 Spring 2023
+ *  Written: March 28, 2023
+ *
+ * This Class is a weekend homework assignment including 10 methods (Also teaching instance variables)
+ */
 public class MyAssignment {
         public String reverseDoubleChar(String word) {
             char reverse;
